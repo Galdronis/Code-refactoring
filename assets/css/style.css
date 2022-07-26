@@ -13,6 +13,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    font-size: 48px;
 }
 
 .header h1 {
@@ -41,13 +42,25 @@ body {
     margin-left: 25px;
 }
 
+#SEO {
+    font-size: 30px;
+}
+
+#ORM {
+    font-size: 30px;
+}
+
+#SMM {
+    font-size: 30px;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .hero {
@@ -67,6 +80,11 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+    margin-top: 25px;
+}
+
+.the-web {
+    margin-bottom: 75px;
 }
 
 .content {
@@ -144,7 +162,7 @@ p {
 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
