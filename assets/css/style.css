@@ -43,15 +43,18 @@ body {
 }
 
 #SEO {
-    font-size: 30px;
+    font-size: 20px;
+    margin-left: 75px;
 }
 
 #ORM {
-    font-size: 30px;
+    font-size: 20px;
+    margin-left: 125px;
 }
 
 #SMM {
-    font-size: 30px;
+    font-size: 20px;
+    margin-left: 175px;
 }
 
 a {
